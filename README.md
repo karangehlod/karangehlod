@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚  I'm currently working on Java, Big Data<br> I'm currently learning Spark<br>🎯 Goals: Data Engineer</p>
+<p align="left">✨ Creating bugs since 2019<br>📚  I'm currently working on Python, Java, Big Data<br> I'm currently learning Spark<br>🎯 Goals: Data Engineer</p>
 
 ###
 
