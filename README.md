@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Karan Gehlod, Software Developer from Indore, MP</p>
+<p align="left">Karan Gehlod, Software Developer from Indore, India</p>
 
 ###
 
