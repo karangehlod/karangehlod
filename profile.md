@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Spark<br>🎯 Goals: Data Engineer</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Fine tuning LLM <br>🎯 Goals: Senior AI Engineer</p>
 
 ###
 
