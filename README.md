@@ -26,14 +26,36 @@
 
 ## About Me
 
-Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship production autonomous systems at enterprise scale.
+<table>
+<tr>
+<td valign="top" width="60%">
 
-- Building **multi-agent orchestration** systems (A2A protocol, LangGraph), real-time control architectures, and cloud-native platforms on AKS/Kubernetes
-- Delivered **$250K+ measurable impact** — $150K in AKS cost savings, $100K via AI-native ticket intelligence
-- Currently sole-architect of an org-wide **Developer Portal** — full stack, AI-native workflow throughout
-- Learning: **LLM fine-tuning** and advanced agentic evaluation patterns
-- Wrote internal engineering guidelines for Claude-assisted development based on real delivery outcomes
-- B.E. @ SGSITS Indore · Ex-Capgemini · Based in Indore, India
+Senior AI Engineer at **Johnson Controls (R&D)** — building production autonomous systems at enterprise scale.
+
+- Specialise in **multi-agent orchestration** (A2A, LangGraph), real-time control architectures, and cloud-native platforms on AKS/Kubernetes
+- **$250K+ measurable impact** — $150K AKS cost savings, $100K via AI ticket intelligence
+- Currently sole-architect of an org-wide **Developer Portal** — full stack, AI-native throughout
+- Wrote internal engineering guidelines for Claude-assisted development
+- Learning: **LLM fine-tuning** and advanced agentic evaluation
+
+</td>
+<td valign="top" width="40%" align="center">
+
+**Currently focused on**
+
+`Multi-Agent Systems` · `A2A Protocol`
+
+`LangGraph` · `LLM Fine-tuning`
+
+`AKS / Kubernetes` · `RAG Pipelines`
+
+`Cloud-Native AI` · `Platform Design`
+
+📍 Indore, India &nbsp;·&nbsp; Ex-Capgemini &nbsp;·&nbsp; B.E. SGSITS
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,12 +63,12 @@ Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship productio
 
 | Metric | Result |
 |---|---|
-| **$150K / yr** | AKS right-sizing + autoscaling — re-architected workload governance |
-| **$100K / yr** | AI ticket intelligence platform — 25% faster resolution, closed-loop feedback |
-| **23% lower memory** | LangGraph vs Semantic Kernel benchmark (103 MiB vs 127 MiB, scored 37/40 vs 27/40) |
-| **90% accuracy** | ChatBotCompanion — 100K+ unstructured inputs, 40% cut in query resolution time |
-| **12% throughput** | Distributed systems optimization across Python/Java backends |
-| **10+ projects** | Cross-functional delivery at 95%+ stakeholder satisfaction |
+| 💰 **$150K / yr** | AKS right-sizing + autoscaling — re-architected workload governance |
+| 💰 **$100K / yr** | AI ticket intelligence — 25% faster resolution, closed-loop feedback |
+| 📉 **23% lower memory** | LangGraph vs Semantic Kernel benchmark (103 MiB vs 127 MiB, scored 37/40 vs 27/40) |
+| 🎯 **90% accuracy** | ChatBotCompanion — 100K+ unstructured inputs, 40% cut in query time |
+| ⚡ **12% throughput** | Distributed systems optimisation across Python/Java backends |
+| 🚀 **10+ projects** | Cross-functional delivery at 95%+ stakeholder satisfaction |
 
 ---
 
@@ -63,6 +85,19 @@ Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship productio
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=karangehlod&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karangehlod&theme=github_dark" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karangehlod&theme=github_dark" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karangehlod&theme=github_dark" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karangehlod&theme=github_dark" height="175" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karangehlod&theme=github_dark" />
 </div>
 
 ---
@@ -129,22 +164,23 @@ Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship productio
   </a>
 </p>
 
-> These link to the official certification pages. To add your personal Credly badge links, replace the `href` values with your Credly verification URLs.
-
 ---
 
 ## Awards
 
-- **TechChallenge Semi-Finalist** — Johnson Controls (Jun 2025) — AI-enabled business value solution
-- **Rising Star** — Capgemini India (Jun 2021) — Outstanding performance within 5 months of joining
+🏆 &nbsp;**TechChallenge Semi-Finalist** — Johnson Controls (Jun 2025) — AI-enabled business value solution
+
+⭐ &nbsp;**Rising Star** — Capgemini India (Jun 2021) — Outstanding performance within 5 months of joining
 
 ---
 
 ## Latest Writing
 
-- [I Got Tired of Benchmarks](https://theprodsde.github.io/blog/i-got-tired-of-benchmarks)
-- [Build a Portfolio with AI + GitHub Pages](https://theprodsde.github.io/blog/build-portfolio-with-ai-github-pages)
-- [Engineering from First Principles](https://theprodsde.github.io/blog/engineering-from-first-principles)
+📝 &nbsp;[I Got Tired of Benchmarks](https://theprodsde.github.io/blog/i-got-tired-of-benchmarks)
+
+📝 &nbsp;[Build a Portfolio with AI + GitHub Pages](https://theprodsde.github.io/blog/build-portfolio-with-ai-github-pages)
+
+📝 &nbsp;[Engineering from First Principles](https://theprodsde.github.io/blog/engineering-from-first-principles)
 
 ---
 
