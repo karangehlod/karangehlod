@@ -54,7 +54,7 @@ Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship productio
 
 | Project | Description |
 |---|---|
-| **Developer Portal** | Sole architect — UI, backend, CI/CD, full-environment deploy. Codified AI-native dev patterns into org-wide guidelines. |
+| **[Developer Portal](https://openblue.johnsoncontrols.com/developer-portal)** | Sole architect — UI, backend, CI/CD, full-environment deploy. Codified AI-native dev patterns into org-wide guidelines. |
 | **[theprodsde.github.io](https://theprodsde.github.io)** | Personal portfolio + engineering blog. Next.js, Tailwind, auto-deploys on push via GitHub Actions. |
 
 ---
@@ -62,12 +62,7 @@ Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship productio
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karangehlod&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
-  <img height="170" src="https://streak-stats.demolab.com?user=karangehlod&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangehlod&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=86400&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=karangehlod&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
