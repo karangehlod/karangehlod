@@ -1,64 +1,140 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Karan Gehlod, Software Developer from Indore, India</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019<br>📚  I'm currently working on Python, LLM, intergation of AI in to products & Data<br> I'm currently learning LLM fine tuning<br>🎯 Goals: Senior AI Engineer</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Karan+Gehlod+%F0%9F%91%8B;Senior+AI+Engineer+%40+Johnson+Controls;Multi-Agent+Orchestration+%7C+LLMs+%7C+Cloud-Native;%24250K%2B+business+impact+delivered" alt="Typing SVG" />
 </div>
 
-###
-
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/karan-gehlod-952026118/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="x.com/karangehlod74m" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://medium.com/@theprodsde" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://x.com/karangehlod74m" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://theprodsde.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=karangehlod&style=for-the-badge&color=0e75b6" />
+</p>
+
+---
+
+## About Me
+
+Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship production autonomous systems at enterprise scale.
+
+- Building **multi-agent orchestration** systems (A2A protocol, LangGraph), real-time control architectures, and cloud-native platforms on AKS/Kubernetes
+- Delivered **$250K+ measurable impact** — $150K in AKS cost savings, $100K via AI-native ticket intelligence
+- Currently sole-architect of an org-wide **Developer Portal** — full stack, AI-native workflow throughout
+- Learning: **LLM fine-tuning** and advanced agentic evaluation patterns
+- Wrote the internal engineering guidelines for Claude-assisted development based on real delivery outcomes
+- B.E. @ SGSITS Indore · Ex-Capgemini · Based in Indore, India
+
+---
+
+## Impact
+
+| | |
+|---|---|
+| **$150K/yr** | AKS right-sizing + autoscaling — re-architected workload governance |
+| **$100K/yr** | AI ticket intelligence platform — 25% faster resolution, closed-loop feedback |
+| **23% lower memory** | LangGraph vs Semantic Kernel benchmark (103 MiB vs 127 MiB, scored 37/40 vs 27/40) |
+| **90% accuracy** | ChatBotCompanion — 100K+ unstructured inputs, 40% cut in query resolution time |
+| **12% throughput** | Distributed systems performance optimization across Python/Java backends |
+| **10+ projects** | Cross-functional delivery at 95%+ stakeholder satisfaction |
+
+---
+
+## What I'm Building
+
+| Project | Description |
+|---|---|
+| **Developer Portal** | Sole architect — UI, backend, CI/CD, full-environment deploy. Codified AI-native dev patterns into org-wide guidelines. |
+| **[theprodsde.github.io](https://theprodsde.github.io)** | Personal portfolio + engineering blog. Next.js, Tailwind, auto-deploys on push via GitHub Actions. |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=karangehlod&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=karangehlod&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karangehlod&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## Tech Stack
+
+**AI & GenAI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4500?style=flat-square)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Backend & Data**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+---
+
+## Certifications
+
+- **AI-102** Azure AI Engineer Associate
+- **AZ-900** Azure Fundamentals
+- **AI Agentic Design Patterns with AutoGen** — DeepLearning.AI
+- **Databricks Lakehouse Fundamentals**
+- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
+
+---
+
+## Awards
+
+- **TechChallenge Semi-Finalist** — Johnson Controls (Jun 2025) — AI-enabled business value solution
+- **Rising Star** — Capgemini India (Jun 2021) — Outstanding performance within 5 months of joining
+
+---
+
+## Latest Writing
+
+- [I Got Tired of Benchmarks](https://theprodsde.github.io/blog/i-got-tired-of-benchmarks)
+- [Build a Portfolio with AI + GitHub Pages](https://theprodsde.github.io/blog/build-portfolio-with-ai-github-pages)
+- [Engineering from First Principles](https://theprodsde.github.io/blog/engineering-from-first-principles)
+
+---
+
+<div align="center">
+  <sub>Software Engineer II (R&D) @ Johnson Controls · Ex-Capgemini · B.E. SGSITS Indore, India</sub>
+</div>
