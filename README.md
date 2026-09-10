@@ -14,8 +14,11 @@
   <a href="https://x.com/karangehlod74m" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="https://karangehlod.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/karangehlod.github.io-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
   <a href="https://theprodsde.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/theprodsde.github.io-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=karangehlod&style=for-the-badge&color=0e75b6" />
 </p>
@@ -77,7 +80,8 @@ Senior AI Engineer at **Johnson Controls (R&D)** — building production autonom
 | Project | Description |
 |---|---|
 | **[Developer Portal](https://openblue.johnsoncontrols.com/developer-portal)** | Sole architect — UI, backend, CI/CD, full-environment deploy. Codified AI-native dev patterns into org-wide guidelines. |
-| **[theprodsde.github.io](https://theprodsde.github.io)** | Personal portfolio + engineering blog. Next.js, Tailwind, auto-deploys on push via GitHub Actions. |
+| **[karangehlod.github.io](https://karangehlod.github.io)** | Personal GitHub Pages portfolio — projects, experience, and engineering profile. |
+| **[theprodsde.github.io](https://theprodsde.github.io)** | Engineering blog and writing hub. Next.js, Tailwind, auto-deploys on push via GitHub Actions. |
 
 ---
 
