@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Karan+Gehlod+%F0%9F%91%8B;Senior+AI+Engineer+%40+Johnson+Controls;Multi-Agent+Orchestration+%7C+LLMs+%7C+Cloud-Native;%24250K%2B+business+impact+delivered" alt="Typing SVG" />
-</div>
 
-<p align="center">
+# Karan Gehlod
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+AI+Engineer+%40+Johnson+Controls;Multi-Agent+%7C+LLMs+%7C+Cloud-Native+AI;Production+AI+from+Prototype+to+Scale;%24250K%2B+Business+Impact+Delivered" alt="Typing SVG" />
+
+<p>
   <a href="https://www.linkedin.com/in/karan-gehlod-952026118/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -18,6 +20,8 @@
   <img src="https://komarev.com/ghpvc/?username=karangehlod&style=for-the-badge&color=0e75b6" />
 </p>
 
+</div>
+
 ---
 
 ## About Me
@@ -28,20 +32,20 @@ Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship productio
 - Delivered **$250K+ measurable impact** — $150K in AKS cost savings, $100K via AI-native ticket intelligence
 - Currently sole-architect of an org-wide **Developer Portal** — full stack, AI-native workflow throughout
 - Learning: **LLM fine-tuning** and advanced agentic evaluation patterns
-- Wrote the internal engineering guidelines for Claude-assisted development based on real delivery outcomes
+- Wrote internal engineering guidelines for Claude-assisted development based on real delivery outcomes
 - B.E. @ SGSITS Indore · Ex-Capgemini · Based in Indore, India
 
 ---
 
 ## Impact
 
-| | |
+| Metric | Result |
 |---|---|
-| **$150K/yr** | AKS right-sizing + autoscaling — re-architected workload governance |
-| **$100K/yr** | AI ticket intelligence platform — 25% faster resolution, closed-loop feedback |
+| **$150K / yr** | AKS right-sizing + autoscaling — re-architected workload governance |
+| **$100K / yr** | AI ticket intelligence platform — 25% faster resolution, closed-loop feedback |
 | **23% lower memory** | LangGraph vs Semantic Kernel benchmark (103 MiB vs 127 MiB, scored 37/40 vs 27/40) |
 | **90% accuracy** | ChatBotCompanion — 100K+ unstructured inputs, 40% cut in query resolution time |
-| **12% throughput** | Distributed systems performance optimization across Python/Java backends |
+| **12% throughput** | Distributed systems optimization across Python/Java backends |
 | **10+ projects** | Cross-functional delivery at 95%+ stakeholder satisfaction |
 
 ---
@@ -58,12 +62,12 @@ Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship productio
 ## GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=karangehlod&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="175em" src="https://streak-stats.demolab.com?user=karangehlod&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karangehlod&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com?user=karangehlod&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karangehlod&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangehlod&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=86400&langs_count=8" />
 </div>
 
 ---
@@ -112,11 +116,25 @@ Senior AI Engineer at **Johnson Controls (R&D)** — I design and ship productio
 
 ## Certifications
 
-- **AI-102** Azure AI Engineer Associate
-- **AZ-900** Azure Fundamentals
-- **AI Agentic Design Patterns with AutoGen** — DeepLearning.AI
-- **Databricks Lakehouse Fundamentals**
-- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
+<p>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/" target="_blank">
+    <img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" target="_blank">
+    <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen" target="_blank">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-AI_Agentic_Design_Patterns_AutoGen-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://www.databricks.com/learn/certification/lakehouse-fundamentals" target="_blank">
+    <img src="https://img.shields.io/badge/Databricks-Lakehouse_Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+  <a href="https://education.oracle.com/oracle-cloud-infrastructure-2024-generative-ai-certified-professional/pexam_1Z0-1127-24" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-GenAI_Professional_2024-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+</p>
+
+> These link to the official certification pages. To add your personal Credly badge links, replace the `href` values with your Credly verification URLs.
 
 ---
 
